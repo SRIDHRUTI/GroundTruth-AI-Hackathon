@@ -324,10 +324,4 @@ starbucks-ai/
 | 🟡 Medium | **Multi-language** | Support Hindi, Telugu, Spanish |
 | 🟢 Low | **Analytics Dashboard** | Track most common intents, conversion rates |
 
----
 
-**LinkedIn:** [linkedin.com/in/yourprofile]
-
----
-
-> *"The best customer service is when the customer doesn't have to ask twice."*
