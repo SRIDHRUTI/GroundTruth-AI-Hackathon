@@ -1,0 +1,11 @@
+Hot Coffee Menu
+Classic Hot Coffee - ₹150
+Americano - Short ₹270 | Tall ₹305 | Grande ₹345
+Cappuccino - Short ₹285 | Tall ₹320 | Grande ₹360
+Caffè Latte - Short ₹295 | Tall ₹330 | Grande ₹370
+Filter Coffee - ₹295
+Flat White - Short ₹315 | Tall ₹350 | Grande ₹390
+Caffè Mocha - Short ₹335 | Tall ₹370 | Grande ₹410
+Caramel Macchiato - Short ₹355 | Tall ₹390 | Grande ₹430
+Signature Hot Chocolate - Short ₹305 | Tall ₹340 | Grande ₹380
+Signature Teas: Masala Chai / Adrak Chai - ₹295 | Chai Tea Latte - Short ₹300 | Tall ₹335 | Grande ₹375

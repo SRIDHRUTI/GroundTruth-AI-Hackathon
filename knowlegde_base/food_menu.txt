@@ -1,0 +1,14 @@
+Food Menu
+Butter Croissant - ₹145
+Cheese Danish - ₹165
+Bacon & Gouda Sandwich - ₹275
+Impossible Breakfast Sandwich - ₹325
+Chicken & Quinoa Protein Bowl - ₹345
+Cake Pop (Birthday) - ₹95
+Blueberry Muffin - ₹125
+Pumpkin Bread - ₹150
+Banana Nut Bread - ₹150
+Grilled Cheese - ₹240
+Ham & Cheese Croissant - ₹240
+Everything Bagel - ₹120
+Plain Bagel - ₹95

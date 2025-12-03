@@ -1,0 +1,12 @@
+Cold Beverages
+Classic Iced Coffee - Short ₹225 | Tall ₹250
+Frappuccino Blended Beverages:
+  Coffee Frappuccino - Tall ₹330 | Grande ₹375 | Venti ₹420
+  Caramel Frappuccino - Tall ₹370 | Grande ₹415 | Venti ₹460
+  Java Chip - Tall ₹390 | Grande ₹435 | Venti ₹480
+  Mocha Frappuccino - Tall ₹395 | Grande ₹440 | Venti ₹485
+Cold Brew:
+  Signature Cold Brew - Short ₹290 | Tall ₹335 | Grande ₹380
+  Vanilla Sweet Cream Cold Brew - Short ₹335 | Tall ₹380 | Grande ₹425
+Refreshers:
+  Mango Dragonfruit / Strawberry Acai - Short ₹290 | Tall ₹335 | Grande ₹380

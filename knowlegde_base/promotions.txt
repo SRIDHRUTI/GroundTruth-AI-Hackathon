@@ -1,0 +1,5 @@
+Current Promotions
+STAR10: 10% off hot beverages for Starbucks Rewards members.
+WARM20: 20% off hot drinks when temperature is below 20°C.
+COOL15: 15% off cold drinks when temperature is above 25°C.
+NEWMEMBER: 20% off your first order when signing up for Starbucks Rewards.
